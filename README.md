@@ -69,11 +69,11 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
-```
 
 # rebuild tailwindcss styles
  npm run build:tailwind
 ```
+
 
 ## Run tests
 
