@@ -22,6 +22,12 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Author
+
+Julius Zak
+mail: zak.julius@gmail.com
+phone: +1 (646) 342 2330
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
