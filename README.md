@@ -72,6 +72,8 @@ $ npm run start:prod
 
 # rebuild tailwindcss styles
  npm run build:tailwind
+
+# server should be started on: http://localhost:3000
 ```
 
 
