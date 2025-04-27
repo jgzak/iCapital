@@ -30,6 +30,7 @@ export class AppService implements OnApplicationBootstrap{
   }
 
   setCaheEntry({firstName, lastName, dob, phoneNumber, street, state, zip, ssn, file}: InvestorFormInput & {file: string} ) {
+    console.log('seeting entry: ', ssn)
     this.mockDbCache[ssn] = {firstName, lastName, dob, phoneNumber, street, state, zip, file}
     this.syncToDisk()
   }
