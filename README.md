@@ -51,6 +51,10 @@ I integrated **TailwindCSS** into the project to enhance the user interface and 
 Currently, the system does **not** verify the uploaded file size as requested.  
 Given more time, I would have implemented this feature by following the documentation provided by NestJS here: [NestJS File Upload Techniques](https://docs.nestjs.com/techniques/file-upload).
 
+#### Additional feature in open PR
+There is one open PR which I added later, just to make this app a little nicer. This PR includes client side file size validation + form submittion upload. I didnt merge this PR just to show that was built after submittion. 
+https://github.com/jgzak/iCapital/pull/1
+
 
 ## Project setup
 
